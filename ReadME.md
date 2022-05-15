@@ -1,6 +1,6 @@
-#TF-IDF implementation in scala using spark
+# TF-IDF implementation in scala using spark
 
-###Bharath Kumar Bandaru
+### Bharath Kumar Bandaru
 
 This is a personal project.
 
