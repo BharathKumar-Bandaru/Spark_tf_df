@@ -52,6 +52,6 @@ object Tf_idf extends App {
       col("word"),(col("tf") * col("idf")).as("tf_idf")
     ).toDF()
     final_result.show()
-    final_result.write.mode(SaveMode.Overwrite).format("csv").save("../result/output.csv")
+    final_result.write.mode(SaveMode.Overwrite).format("csv").save("../result/output")
   }
 }
