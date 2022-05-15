@@ -6,6 +6,7 @@ This is a personal project.
 
 Language: Scala
 Dataset: 20newsgroup
+
 Works with any dataset.
 
 Assumptions:
